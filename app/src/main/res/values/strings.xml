@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GTH</string>
+    <string name="welcome_to_the_gth_attandence">WELCOME TO THE GTH</string>
+    <string name="scan_qr_code">Scan QR Code</string>
+    <string name="scanned_data_will_appear_here">Scanned Data Will Appear Here</string>
+    <string name="your_code_will_appear_here">Your Detail will appear here</string>
+</resources>
